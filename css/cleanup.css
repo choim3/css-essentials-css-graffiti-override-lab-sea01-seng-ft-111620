@@ -20,7 +20,7 @@
   display: none;
 }
 
-#wall div.parent div + dive:last-child #tag-6
+body #wall div.parent div:last-child #tag-6
 {
   display: none;
 }
